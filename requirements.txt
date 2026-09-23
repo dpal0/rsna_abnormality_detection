@@ -1,1 +1,24 @@
 kaggle
+jupyter
+pandas
+numpy
+matplotlib
+
+#DICOM Handling
+pydicom
+python-gdcm
+pillow
+
+# modeling
+torch
+torchvision
+scikit-learn
+timm
+
+# pipeline utilities
+tqdm
+opencv-python
+
+# testing
+pytest
+    
